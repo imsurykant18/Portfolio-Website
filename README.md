@@ -25,11 +25,6 @@ This portfolio showcases my education, skills, projects, and achievements in a c
 
 ---
 
-## 📸 Preview
-![Portfolio Screenshot](public/assets/images/Portfolio.jpeg)
-
----
-
 ## 📂 Project Structure
 
 portfolio-website/
@@ -47,4 +42,4 @@ portfolio-website/
 
 
 
-Surykant Bhojane - 2025
+Created by Surykant Bhojane - Monday, January 1, 2025
